@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+    <img src="./assets/Profilo.jpg" alt="Immagine di profilo di Pietro Lacitignola" width="200" style="border-radius: 50%;">
+</div>
 
-<!--
-**Piero793/Piero793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ciao, sono Pietro! 👋
 
-Here are some ideas to get you started:
+Sono un **Cloud Engineer Junior** con una solida base da sviluppatore, specializzato in **Java** e **Spring Boot**. Ho una forte passione per le architetture cloud moderne e ho consolidato le mie competenze con progetti personali.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sono certificato **AWS Cloud Practitioner** e ho esperienza con API RESTful, database relazionali come **PostgreSQL**, e lo sviluppo front-end con **React** e **JavaScript**. Cerco un ruolo stimolante dove poter contribuire a soluzioni innovative nel cloud.
+
+---
+
+### Il mio stack tecnologico
+
+- **Cloud:** AWS Cloud Practitioner
+- **Back-end:** Java, Spring Boot, Spring Security, Python, RESTful API, PostgreSQL
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Strumenti:** Git, GitHub, Postman, Swagger UI, Visual Studio Code
+
+---
+
+### Progetti in evidenza
+
+#### Simutrade X
+
+Un'applicazione full-stack per il monitoraggio dei mercati finanziari. Il back-end è in **Spring Boot** con **API REST** e **PostgreSQL**, mentre il front-end in **React** utilizza **Chart.js** per grafici interattivi.
+
+- [**Vai al repository**](https://github.com/Piero793/SimutradeX)
+
+#### Clone di Netflix
+
+Un'applicazione web sviluppata con **React** e **Vite**, che utilizza l'API di **TMDB** per mostrare film e serie TV. L'interfaccia è responsive e offre un'esperienza utente fluida e moderna.
+
+- [**Vai al repository**](https://github.com/Piero793/Netflix-clone)
+
+---
+
+### Trovami su
+
+- [**GitHub**](https://github.com/Piero793)
+- [**LinkedIn**](https://www.linkedin.com/in/pietro-lacitignola)
