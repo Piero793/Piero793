@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pietro.lacitignola.pl@gmail.com"><img alt="Contattami" src="https://img.shields.io/badge/Contattami-Email-informational?logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/pietro-lacitignola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pietro%20Lacitignola-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pierolacitignola7@gmail.com"><img alt="Contattami" src="https://img.shields.io/badge/Contattami-Email-informational?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/pietrolacitignola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pietro%20Lacitignola-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Piero793"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Piero793-24292e?logo=github" /></a>
   <img alt="AWS CCP" src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white" />
 </p>
@@ -46,7 +46,7 @@
 <details>
 <summary><strong>Dettagli e scelte UX/UI</strong></summary>
 
-- **Descrizione:** App **full‑stack** per monitoraggio dei mercati finanziari.
+- **Descrizione:** App **full-stack** per monitoraggio dei mercati finanziari.
 - **Tech:** Backend in <strong>Spring Boot</strong> con <strong>API REST</strong> e <strong>PostgreSQL</strong>, creato ed implementato anche un modello di <strong>ML</strong>; frontend in <strong>React</strong> con grafici interattivi via <strong>Chart.js</strong>.
 - **UX/UI:** Navigazione chiara, grafici responsive, dark mode coerente, feedback di caricamento, empty states descrittivi.
 - **Qualità:** Struttura modulare, DTO/mapper, validazione, gestione errori con response uniformi.
@@ -89,7 +89,7 @@
   <a href="https://github.com/Piero793" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="32" alt="logo github" />
   </a>
-  <a href="https://www.linkedin.com/in/pietro-lacitignola" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/pietrolacitignola" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="logo linkedin" />
   </a>
 </p>
