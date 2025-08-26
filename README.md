@@ -41,7 +41,7 @@
 
 ### Simutrade X
 
-**Repo:** <a href="https://github.com/Piero793/SimutradeX">github.com/Piero793/SimutradeX</a>
+**Repo:** <a href="https://github.com/Piero793/simulatore_trading_frontend.git">github.com/Piero793/SimutradeX</a>
 
 <details>
 <summary><strong>Dettagli e scelte UX/UI</strong></summary>
@@ -57,7 +57,7 @@
 
 ### Clone di Netflix
 
-**Repo:** <a href="https://github.com/Piero793/Netflix-clone">github.com/Piero793/Netflix-clone</a>
+**Repo:** <a href="https://github.com/Piero793/u3-s9-l5.git">github.com/Piero793/Netflix-clone</a>
 
 <details>
 <summary><strong>Dettagli e scelte UX/UI</strong></summary>
