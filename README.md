@@ -18,7 +18,7 @@
   <a href="mailto:pierolacitignola7@gmail.com"><img alt="Contattami" src="https://img.shields.io/badge/Contattami-Email-informational?logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/pietrolacitignola"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pietro%20Lacitignola-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Piero793"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Piero793-24292e?logo=github" /></a>
-  <img alt="AWS CCP" src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?logo=amazonaws&logoColor=white" />
+  <img alt="AWS CSA" src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?logo=amazonaws&logoColor=white" />
 </p>
 
 ---
